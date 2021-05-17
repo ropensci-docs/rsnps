@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e6bf067a91f8ce1298c6674e66b1c7be653a4c7a",
+    "author": "Sina Rüeger <sinarueeger@users.noreply.github.com>",
+    "time": "2021-05-17 18:47:42",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #130 from ropensci/sinarueeger/add.templates\n\nGithub issue templates (2nd attempt)"
+  },
+  "remote": "https://github.com/ropensci/rsnps",
+  "pkg": "rsnps"
+}
