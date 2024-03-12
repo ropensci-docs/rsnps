@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "1a604aef7815f4c9d9b2dd35fc77c8926ca3377a",
+    "author": "Julia Gustavsen <j.gustavsen@gmail.com>",
+    "time": "2023-07-16 06:00:48",
+    "files": 2,
+    "merge": false,
+    "message": "fixed skip on cran usage in new tests.\n"
+  },
+  "repo": "https://github.com/ropensci/rsnps",
+  "pkg": "rsnps"
+}
